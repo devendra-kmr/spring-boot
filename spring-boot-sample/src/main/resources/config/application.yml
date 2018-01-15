@@ -1,0 +1,23 @@
+
+spring:
+    application:
+        name: sample
+    jackson:
+        serialization.write_dates_as_timestamps: false
+
+    mvc:
+        favicon:
+            enabled: false
+security:
+    basic:
+        enabled: false
+
+server:
+    session:
+        cookie:
+            http-only: true
+
+info:
+    project:
+        version: #project.version#
+application:
