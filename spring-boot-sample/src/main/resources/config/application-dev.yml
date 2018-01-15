@@ -1,0 +1,14 @@
+spring:
+    profiles:
+        active: dev
+
+    devtools:
+        restart:
+            enabled: true
+
+    jackson:
+        serialization.indent_output: true
+server:
+    port: 9090
+
+application:
