@@ -5,5 +5,5 @@
   ${AnsiColor.GREEN}       ${AnsiColor.RED} ██    ██  ██        ██
   ${AnsiColor.GREEN}       ${AnsiColor.RED} ██    ██  ██        ██         
 
-${AnsiColor.BRIGHT_BLUE}:: sample-service 🤓  :: Running Spring Boot ${spring-boot.version} ::
+${AnsiColor.BRIGHT_BLUE}:: sample-service 🤓  :: Running Spring Boot ${spring-boot.version} :
 
